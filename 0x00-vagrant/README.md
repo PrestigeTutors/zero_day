@@ -1,1 +1,1 @@
-Hello Ubuntu
+ it prints the core operating system name
